@@ -37,7 +37,7 @@
 
 ## 📷 Sample Output
 
-![Similarity Graph](screenshot.png)
+![Similarity Graph](![image](https://github.com/user-attachments/assets/33c8bcf6-e628-40be-b1f3-dc244a35de5c))
 
 ## 🧠 Author
 
