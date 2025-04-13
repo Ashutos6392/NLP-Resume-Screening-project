@@ -35,10 +35,6 @@
 4. Measure similarity using cosine similarity
 5. Output most relevant resumes for each job
 
-## 📷 Sample Output
-
-![Similarity Graph](![image](https://github.com/user-attachments/assets/33c8bcf6-e628-40be-b1f3-dc244a35de5c))
-
 ## 🧠 Author
 
 This project was built for learning NLP and showcasing resume/job matching using real-world data.
